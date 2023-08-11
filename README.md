@@ -1,0 +1,1 @@
+# Front-End eğitiminde yaptığım 2. ödev
